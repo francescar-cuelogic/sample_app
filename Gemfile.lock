@@ -1,3 +1,11 @@
+GIT
+  remote: git@github.com:francescar-cuelogic/sample_api.git
+  revision: ccf770dfca1d2d79430008f30c6765bf5bba601b
+  branch: master
+  specs:
+    sample_api (0.0.1)
+      rails (~> 4.1.8)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -112,6 +120,7 @@ DEPENDENCIES
   jbuilder (~> 2.0)
   jquery-rails
   rails (= 4.1.8)
+  sample_api!
   sass-rails (~> 4.0.3)
   sdoc (~> 0.4.0)
   spring
